@@ -1,6 +1,4 @@
 <?php
- 	// File: DBPJ_db.inc
- 	// Establish database connection
  	function db_connect(){
 		
  		// use constants defined in DBPJ_cn.inc
